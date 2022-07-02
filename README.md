@@ -10,5 +10,6 @@
   Here are some screenshots of the app :
 </p>
 <p align="center">
-  comming soon ...
+  <img src="/screenshots/shop-1.png" />
+  <img src="/screenshots/shop-2.png" />
 </p
